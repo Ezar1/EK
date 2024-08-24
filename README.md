@@ -1,1 +1,1 @@
-User = Banglorek 
+User = Banglore
