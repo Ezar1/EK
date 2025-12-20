@@ -1,7 +1,6 @@
 User = Banglore
 
 
-User = Chennai
 
 
 
