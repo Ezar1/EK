@@ -4,7 +4,6 @@ User = Banglore
 User = Chennai
 
 
-User = Hyderabad
 
 User = Mumbai
 
