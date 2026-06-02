@@ -17,5 +17,4 @@ User = kolkata
 
 User = Bangalore
 
-M1236K
 
